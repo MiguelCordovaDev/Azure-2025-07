@@ -49,7 +49,7 @@ db.mongoose
   });
 
 app.get("/", (req, res) => {
-  res.send("Hola Alexander, desde Render!");
+  res.send("Hola Alexander, desde Azure!");
 });
 
 app.listen(PORT, () => {
